@@ -1,3 +1,4 @@
 git demo repository
 git learning
 change on online github
+git pull will fetch and apply changes automatically
